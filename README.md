@@ -34,4 +34,4 @@ A Spring Boot application that demonstrates CRUD (Create, Read, Update, Delete) 
 1. Clone the repository:
    ```bash
    git clone https://github.com/aditinrw/HQLCRUDOperations.git
-   cd HQLCRUDOperations
+  
